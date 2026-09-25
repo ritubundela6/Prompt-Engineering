@@ -1,1 +1,10 @@
-
+Draft six naive prompts — simple, single-sentence commands with no role, context, or style constraints —
+one for each content type:
+ • Blog Post: Write a blog post about why remote work is good.
+ • LinkedIn Post: Write a LinkedIn post about learning prompt engineering.
+ • Email Campaign: Write a sales email promoting our new water bottle.
+ • Instagram Caption: Write an Instagram caption for a picture of a coffee cup.
+ • YouTube Script: Write a YouTube video script about how to start a business.
+ • Product Description: Write a product description for a wireless mouse.
+ Enter each naive prompt into ChatGPT one by one and copy the output text into your scratch file. These
+represent your Before outputs. Notice how they are often generic, verbose, and use cliché language.
