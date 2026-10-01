@@ -1,0 +1,10 @@
+https://youtu.be/uG-6afx1abg
+Watch video on youtube
+
+Demonstrate your ability to build a complete, functioning AI Customer Support Assistant for a SaaS
+company (FlexTime) that follows industry best practices. The solution should integrate a multi-stage
+prompt chain in ChatGPT, intent classification across Billing, Technical Support, Account Management,
+General Inquiry, and Urgent Escalation categories, an empathy-driven CARE framework responder, a self-
+verification reflection loop, an escalation ticket generator for policy-breaching cases, a CRM-ready
+conversation summarizer, and all deliverables published to a public GitHub repository with a recorded
+Loom walkthrough.
